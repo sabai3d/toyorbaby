@@ -1,1 +1,44 @@
-
+{
+  "com.songKids.ToyorJana": [
+    {
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "admob_rewarded": "ca-app-pub-3940256099942544/5224354917"
+    }
+  ],
+  "com.janaMekdad.Toyor": [
+    {
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "admob_rewarded": "ca-app-pub-3940256099942544/5224354917"
+    }
+  ],
+  "com.Hamidou.ToyorAlJanah": [
+    {
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "admob_rewarded": "ca-app-pub-3940256099942544/5224354917"
+    }
+  ],
+  "com.karameesh.Kids": [
+    {
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "admob_rewarded": "ca-app-pub-3940256099942544/5224354917"
+    }
+  ],
+  "com.toyorbaby.Elsissan": [
+    {
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "admob_rewarded": "ca-app-pub-3940256099942544/5224354917"
+    }
+  ],
+  "com.Songs.ToyorElJaanah": [
+    {
+      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+      "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+      "admob_rewarded": "ca-app-pub-3940256099942544/5224354917"
+    }
+  ]
+}
